@@ -15,3 +15,4 @@
 # fix 4672
 # fix 1448
 # optimize 9143
+# fix 5526
