@@ -1,0 +1,2 @@
+# auto-created
+aiohttp==2.5.7
