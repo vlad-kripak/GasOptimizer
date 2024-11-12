@@ -1,3 +1,4 @@
 # auto-created
 aiohttp==2.5.7
 web3==2.8.3
+aiohttp==0.8.2
