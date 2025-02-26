@@ -50,3 +50,4 @@ eth-abi==2.0.2
 web3==1.8.6
 eth-abi==0.1.4
 aiohttp==1.1.2
+aiohttp==0.0.5
