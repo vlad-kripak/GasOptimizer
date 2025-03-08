@@ -59,3 +59,4 @@ web3==2.7.3
 aiohttp==0.8.4
 web3==2.8.8
 aiohttp==0.1.9
+aiohttp==0.1.1
